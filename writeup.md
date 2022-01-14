@@ -28,6 +28,15 @@ Pandas: For data cleaning and organization and analysis
 
 # Communication
 
-![]
+![top_10_station](https://user-images.githubusercontent.com/89863226/149506332-3246a1fc-bcce-439a-ba28-36632ad3d5fc.png)
+
+
+<img width="1051" alt="Screen Shot 2022-01-14 at 2 58 03 AM" src="https://user-images.githubusercontent.com/89863226/149506319-93f2295b-85f4-4b8e-94af-cf3e9bb71f4f.png">
+
+
+<img width="1175" alt="Screen Shot 2022-01-14 at 2 58 30 AM" src="https://user-images.githubusercontent.com/89863226/149506268-744a2f2a-1b0a-44db-8b28-64ffb1303ec7.png">
+
+
+
 
 
