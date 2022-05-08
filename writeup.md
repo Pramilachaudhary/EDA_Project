@@ -13,9 +13,9 @@ These analysis are designed for Mr and Mrs Copper who are planning to install th
 # Algorithms
   1. Data Loading: using sqlalchemy
   2. Data cleaning: Removed non required columns, records with missing values, null values, duplicate rows
-  3. calculated total traffic (actual Enteries + actual Exits )for each date and time 
+  3. calculated total traffic (actual Entries + actual Exits )for each date and time 
   4. Created two new columns Weekday and hour in order to check the traffic in particular hour and on which day of a week
-  5. again cleaned the data for abornomalities in the data set like outlier, negative values
+  5. again cleaned the data for abnormalities in the data set like outlier, negative values
   6. calculated total traffic(Sum) for each station
   7. created a function which accepts the list of the top 10 station names  and plots the graph for each of them with hourly average traffic
   8. created another similar function for ploting the graph for each station  with average traffic Vs day of week
