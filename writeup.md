@@ -18,7 +18,7 @@ These analysis are designed for Mr and Mrs Copper who are planning to install th
   5. again cleaned the data for abnormalities in the data set like outlier, negative values
   6. calculated total traffic(Sum) for each station
   7. created a function which accepts the list of the top 10 station names  and plots the graph for each of them with hourly average traffic
-  8. created another similar function for ploting the graph for each station  with average traffic Vs day of week
+  8. created another similar function for plotting the graph for each station  with average traffic Vs day of week
 
 # Tools
 Python: Defing functions
